@@ -1,0 +1,145 @@
+.top_blue_box {
+  background-image: url("top blue box.png");
+  position: absolute;
+  left: 205px;
+  top: 252px;
+  width: 404px;
+  height: 387px;
+  z-index: 3;
+}
+.middle_blue_box {
+  background-image: url("middle blue box.png");
+  position: absolute;
+  left: 204px;
+  top: 692px;
+  width: 400px;
+  height: 358px;
+  z-index: 4;
+}
+.bottom_blue_box {
+  background-image: url("bottom blue box.png");
+  position: absolute;
+  left: 204px;
+  top: 1103px;
+  width: 399px;
+  height: 344px;
+  z-index: 5;
+}
+._I_M_FINE_____ {
+  font-size: 125px;
+  font-family: "Didot";
+  color: rgb(0, 0, 0);
+  font-style: italic;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 667px;
+  top: 54px;
+  z-index: 6;
+}
+.coffee_layer {
+  background-image: url("coffee layer.png");
+  position: absolute;
+  left: 751px;
+  top: 248px;
+  width: 581px;
+  height: 587px;
+  z-index: 11;
+}
+.Need_Energy_ {
+  font-size: 58.333px;
+  font-family: "Didot";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 874.016px;
+  top: 406px;
+  z-index: 13;
+}
+.writing_layer {
+  background-image: url("writing layer.png");
+  position: absolute;
+  left: 1332px;
+  top: 875px;
+  width: 584px;
+  height: 378px;
+  z-index: 14;
+}
+.Stressed_Out_ {
+  font-size: 58.333px;
+  font-family: "Didot";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 1436.875px;
+  top: 1014px;
+  z-index: 16;
+}
+.limits_layer {
+  background-image: url("limits layer.png");
+  position: absolute;
+  left: 1557px;
+  top: 340px;
+  width: 202px;
+  height: 301px;
+  z-index: 17;
+}
+.worth_layer {
+  background-image: url("worth layer.png");
+  position: absolute;
+  left: 863px;
+  top: 942px;
+  width: 216px;
+  height: 295px;
+  z-index: 19;
+}
+.black_boxes {
+  background-image: url("black boxes.png");
+  position: absolute;
+  left: 752px;
+  top: 256px;
+  width: 1161px;
+  height: 1003px;
+  z-index: 7;
+}
+.hows_your_day_music {
+  background-image: url("hows your day music.png");
+  position: absolute;
+  left: 213px;
+  top: 652px;
+  width: 384px;
+  height: 37px;
+  z-index: 10;
+}
+.bestfriend_music {
+  background-image: url("bestfriend music.png");
+  position: absolute;
+  left: 205px;
+  top: 1050px;
+  width: 401px;
+  height: 33px;
+  z-index: 9;
+}
+.float_on_music {
+  background-image: url("float on music.png");
+  position: absolute;
+  left: 200px;
+  top: 1451px;
+  width: 419px;
+  height: 36px;
+  z-index: 8;
+}
+.home_button_place {
+  background-image: url("home button place.png");
+  position: absolute;
+  left: 1852px;
+  top: 113px;
+  width: 107px;
+  height: 109px;
+  z-index: 11;
+}
+

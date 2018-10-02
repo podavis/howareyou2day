@@ -1,0 +1,160 @@
+.top {
+  background-image: url("top.png");
+  position: absolute;
+  left: 218px;
+  top: 260px;
+  width: 1677px;
+  height: 251px;
+  z-index: 3;
+}
+.middle {
+  background-image: url("middle.png");
+  position: absolute;
+  left: 221px;
+  top: 530px;
+  width: 1670px;
+  height: 191px;
+  z-index: 4;
+}
+.bottom {
+  background-image: url("bottom.png");
+  position: absolute;
+  left: 224px;
+  top: 1111px;
+  width: 1676px;
+  height: 242px;
+  z-index: 5;
+}
+.TRAVEL {
+  background-image: url("TRAVEL.png");
+  position: absolute;
+  left: 695px;
+  top: 560px;
+  width: 535px;
+  height: 97px;
+  z-index: 6;
+}
+.EVENTS {
+  font-size: 125px;
+  font-family: "Didot";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 893.5px;
+  top: 302.5px;
+  z-index: 7;
+}
+.VINES {
+  font-size: 125px;
+  font-family: "Didot";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 1054px;
+  top: 1157.5px;
+  z-index: 8;
+}
+.happy1 {
+  background-image: url("happy1.png");
+  position: absolute;
+  left: 593px;
+  top: 770px;
+  width: 292px;
+  height: 292px;
+  z-index: 9;
+}
+.happy2 {
+  background-image: url("happy2.png");
+  position: absolute;
+  left: 919px;
+  top: 769px;
+  width: 291px;
+  height: 294px;
+  z-index: 11;
+}
+.happy_3 {
+  background-image: url("happy 3.png");
+  position: absolute;
+  left: 1244px;
+  top: 773px;
+  width: 300px;
+  height: 291px;
+  z-index: 13;
+}
+.happy_4 {
+  background-image: url("happy 4.png");
+  position: absolute;
+  left: 1581px;
+  top: 771px;
+  width: 297px;
+  height: 289px;
+  z-index: 15;
+}
+.happy_5 {
+  background-image: url("happy 5.png");
+  position: absolute;
+  left: 268px;
+  top: 773px;
+  width: 287px;
+  height: 291px;
+  z-index: 17;
+}
+.dear_sense_music {
+  background-image: url("dear sense music.png");
+  position: absolute;
+  left: 267px;
+  top: 1071px;
+  width: 295px;
+  height: 31px;
+  z-index: 18;
+}
+.calvin_music {
+  background-image: url("calvin music.png");
+  position: absolute;
+  left: 597px;
+  top: 1068px;
+  width: 285px;
+  height: 29px;
+  z-index: 19;
+}
+.body_music {
+  background-image: url("body music.png");
+  position: absolute;
+  left: 918px;
+  top: 1072px;
+  width: 300px;
+  height: 31px;
+  z-index: 20;
+}
+.dennis_music {
+  background-image: url("dennis music.png");
+  position: absolute;
+  left: 1238px;
+  top: 1072px;
+  width: 310px;
+  height: 29px;
+  z-index: 21;
+}
+.rise_music {
+  background-image: url("rise music.png");
+  position: absolute;
+  left: 1577px;
+  top: 1068px;
+  width: 319px;
+  height: 33px;
+  z-index: 22;
+}
+.home_button_place {
+  background-image: url("home button place.png");
+  position: absolute;
+  left: 1718px;
+  top: 93px;
+  width: 143px;
+  height: 141px;
+  z-index: 23;
+}
+

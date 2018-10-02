@@ -1,0 +1,73 @@
+.left_light_box {
+  background-image: url("left light box.png");
+  position: absolute;
+  left: 194px;
+  top: 206px;
+  width: 427px;
+  height: 430px;
+  z-index: 6;
+}
+.right_light_box {
+  background-image: url("right light box.png");
+  position: absolute;
+  left: 1078px;
+  top: 209px;
+  width: 415px;
+  height: 427px;
+  z-index: 5;
+}
+.middle_light_box {
+  background-image: url("middle light box.png");
+  position: absolute;
+  left: 644px;
+  top: 209px;
+  width: 415px;
+  height: 427px;
+  z-index: 4;
+}
+.video {
+  background-image: url("video.png");
+  position: absolute;
+  left: 192px;
+  top: 800px;
+  width: 1301px;
+  height: 410px;
+  z-index: 9;
+}
+.poem {
+  background-image: url("poem.png");
+  position: absolute;
+  left: 1507px;
+  top: 218px;
+  width: 463px;
+  height: 1014px;
+  z-index: 4;
+}
+.scars_music {
+  background-image: url("scars music.png");
+  position: absolute;
+  left: 1072px;
+  top: 660px;
+  width: 432px;
+  height: 46px;
+  z-index: 5;
+}
+.birdy_music {
+  background-image: url("birdy music.png");
+  position: absolute;
+  left: 193px;
+  top: 653px;
+  width: 432px;
+  height: 59px;
+  z-index: 6;
+}
+.home_button_place {
+  background-image: url("home button place.png");
+  position: absolute;
+  left: 1787px;
+  top: 75px;
+  width: 141px;
+  height: 105px;
+  z-index: 14;
+}
+

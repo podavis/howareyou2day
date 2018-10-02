@@ -1,0 +1,39 @@
+.Hi__how_are_you_ {
+  font-size: 75px;
+  font-family: "Didot";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 420.328px;
+  top: 1073.963px;
+  z-index: 5;
+}
+.happy_block {
+  background-image: url("happy block.png");
+  position: absolute;
+  left: 1096px;
+  top: 386px;
+  width: 616px;
+  height: 642px;
+  z-index: 4;
+}
+.i_m_fine_block {
+  background-image: url("i’m fine block.png");
+  position: absolute;
+  left: 632px;
+  top: 383px;
+  width: 429px;
+  height: 646px;
+  z-index: 3;
+}
+.sad_block {
+  background-image: url("sad block.png");
+  position: absolute;
+  left: 416px;
+  top: 379px;
+  width: 171px;
+  height: 646px;
+  z-index: 2;
+}
+
